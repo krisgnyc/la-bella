@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<!-- Corporate Pages -->
+		<loc>https://www.envato.com/sitemap_frontdoor.xml</loc>
+	</sitemap>
+	<sitemap>
+		<!-- Blog Pages -->
+		<loc>https://www.envato.com/blog/sitemap-index.xml</loc>
+	</sitemap>
+	<sitemap>
+		<!-- Marketing Campaigns Pages -->
+		<loc>https://www.envato.com/c/sitemap_marketing_campaigns.xml</loc>
+	</sitemap>
+	<sitemap>
+		<!-- Landing Pages -->
+		<loc>https://www.envato.com/lp/sitemap.xml</loc>
+	</sitemap>
+</sitemapindex>

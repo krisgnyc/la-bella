@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.cookiebot.com/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/en/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/da/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/de/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/es/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/fr/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/it/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/us/sitemap_index.xml
+Sitemap: https://www.cookiebot.com/sitemap.xml
